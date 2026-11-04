@@ -1,17 +1,7 @@
-# Hi, I'm Matt 👋
+Hi, I'm Matt. I run [HQ](https://builtbyhq.com), a software shop, and I've been building SaaS products for about 15 years.
 
-I run [HQ](https://builtbyhq.com), where we build software for companies, and I've been shipping SaaS products for about 15 years.
+These days I spend most of my time building AI agents that do real work for HQ and our clients: finance, sales, scheduling, follow-ups. I approve anything that matters.
 
-Lately most of my time goes into **AI agents**: teams of bots that handle real operations work, like finance, sales, scheduling and client follow-through, with a human approving anything that matters.
+The thing I've open-sourced so far is [agent-noticeboard](https://github.com/mattsuthe/agent-noticeboard). It's an iPhone app any agent can post to. Dashboards, widgets, notifications, and buttons that send my answer back to the agent.
 
-### What I'm building
-
-- **[agent-noticeboard](https://github.com/mattsuthe/agent-noticeboard)** — a self-hosted iPhone home for any AI agent: dashboards, widgets, push notifications, Live Activities, and buttons that send decisions back to your agents. Expo + Cloudflare, operated entirely from Linux.
-
-### Work with HQ
-
-Need a product built, or want agents running parts of your business? Reach out through [builtbyhq.com](https://builtbyhq.com).
-
-### Find me
-
-[X / @mattsuthe](https://x.com/mattsuthe) · [builtbyhq.com](https://builtbyhq.com)
+If you want something built, or want agents running part of your business, get in touch at [builtbyhq.com](https://builtbyhq.com). I'm also on X at [@mattsuthe](https://x.com/mattsuthe).
